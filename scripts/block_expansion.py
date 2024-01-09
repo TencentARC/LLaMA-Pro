@@ -7,7 +7,7 @@ def main():
     # Set up the argument parser
     parser = argparse.ArgumentParser(description="Receive deepen model's args")
     parser.add_argument("--model_path", default='meta-llama/Llama-2-7b-hf', type=str, help="original model path")
-    parser.add_argument("--output_path", default='pytorch_model.bin', type=str, help="widen model ckpt save path")
+    parser.add_argument("--output_path", default='pytorch_model.bin', type=str, help="deepened model ckpt save path")
     parser.add_argument("--original_layers", default=32, type=int, help="original model num layers")
     parser.add_argument("--layers", default=40, type=int, help="deepen model num layers")
 
