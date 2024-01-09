@@ -1,0 +1,8 @@
+accelerate
+bitsandbytes
+gradio
+protobuf
+scipy
+sentencepiece
+torch
+git+https://github.com/huggingface/transformers@main
