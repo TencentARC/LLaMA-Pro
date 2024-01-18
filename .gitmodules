@@ -1,0 +1,3 @@
+[submodule "open-instruct"]
+	path = open-instruct
+	url = git@github.com:hills-code/open-instruct.git
