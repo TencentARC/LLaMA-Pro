@@ -22,12 +22,10 @@ Thanks [huggingface](https://huggingface.co/TencentARC/LLaMA-Pro-8B) & [wisemode
 ## Citation
 The code and model in this repository is mostly developed for or derived from the paper below. Please cite it if you find the repository helpful.
 ```
-@misc{wu2024llama,
-      title={LLaMA Pro: Progressive LLaMA with Block Expansion}, 
-      author={Chengyue Wu and Yukang Gan and Yixiao Ge and Zeyu Lu and Jiahao Wang and Ye Feng and Ping Luo and Ying Shan},
-      year={2024},
-      eprint={2401.02415},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{wu2024llama,
+  title={Llama pro: Progressive llama with block expansion},
+  author={Wu, Chengyue and Gan, Yukang and Ge, Yixiao and Lu, Zeyu and Wang, Jiahao and Feng, Ye and Luo, Ping and Shan, Ying},
+  journal={arXiv preprint arXiv:2401.02415},
+  year={2024}
 }
 ```
