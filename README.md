@@ -13,7 +13,7 @@
 * [2024/02/23] We release the [Mistral-Pro-8B-v0.1](https://huggingface.co/TencentARC/Mistral_Pro_8B_v0.1) with superior performance on a range of benchmarks. It enhances the code and math performance of Mistral and matches the performance of the recently dominant model, [Gemma](https://huggingface.co/google/gemma-7b).
 ![assets/mistral_pro_performance.png](assets/mistral_pro_performance.png)
 * [2024/02/23] We release the evaluation code of [Mistral-Pro-8B-v0.1](https://huggingface.co/TencentARC/Mistral_Pro_8B_v0.1) in [lm-evaluation-harness](https://github.com/hills-code/lm-evaluation-harness).
-* [2024/02/23] We release [MetaMath-Mistral-Pro]([https://huggingface.co/TencentARC/Mistral_Pro_8B_v0.1](https://huggingface.co/TencentARC/MetaMath-Mistral-Pro)) that surpasses previous MetaMath series 7B models at both GSM8k and MATH. The evaluation is following [the official MetaMath repo](https://github.com/meta-math/MetaMath).
+* [2024/02/23] We release [MetaMath-Mistral-Pro](https://huggingface.co/TencentARC/Mistral_Pro_8B_v0.1) that surpasses previous MetaMath series 7B models at both GSM8k and MATH. The evaluation is following [the official MetaMath repo](https://github.com/meta-math/MetaMath).
 
 🔥 Comprehensive Results
 
