@@ -12,7 +12,7 @@
 * [2024/02/23] We release the evaluation code of [Mistral-Pro-8B-v0.1](https://huggingface.co/TencentARC/Mistral_Pro_8B_v0.1) in [lm-evaluation-harness](https://github.com/hills-code/lm-evaluation-harness).
 * [2024/02/23] We release [MetaMath-Mistral-Pro](https://huggingface.co/TencentARC/MetaMath-Mistral-Pro) that surpasses previous MetaMath series 7B models at both GSM8k and MATH. The evaluation is following [the official MetaMath repo](https://github.com/meta-math/MetaMath).
 * [2024/05/08] Add the pre-train example script for cosmopedia in [open-instruct](https://github.com/hills-code/open-instruct/tree/llama-pro).
-
+* [2024/05/16] [LLaMA Pro](https://arxiv.org/abs/2401.02415) has been accepted to the main conference of ACL 2024!
 
 
 🔥 Comprehensive Results
